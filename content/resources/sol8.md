@@ -4,6 +4,7 @@ description: Problems  and solutions on Transistor and CMOS equivalent NOR Gate 
   network routing.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-896-theory-of-parallel-hardware-sma-5511-spring-2004/fb285395439d09ae66a845a008e614b7_sol8.pdf
 file_type: application/pdf
+parent_uid: d690e139-e63b-993d-56da-db507d4dff60
 resourcetype: Document
 title: sol8.pdf
 uid: fb285395-439d-09ae-66a8-45a008e614b7
